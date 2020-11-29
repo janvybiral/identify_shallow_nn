@@ -14,7 +14,7 @@ $ conda activate snnident
 ```
 Now, clone the repository 
 ```
-(snnident)$ git clone https://github.com/michaelrst/https://github.com/michaelrst
+(snnident)$ git clone https://github.com/michaelrst/https://github.com/michaelrst/identify_shallow_nn
 ```
 this should download the repository into the current working directory, which can now be installed together with the dependencies by
 ```
