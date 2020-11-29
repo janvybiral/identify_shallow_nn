@@ -3,7 +3,7 @@
 
 ## Installation
 
-The core modules use python 3. It is best to install the module in its own virutal enviroment.
+The core modules use python 3. It is best to install the module in its own virtual environment.
 
 Here, we use [conda](https://docs.conda.io/en/latest/), but most other environment managers should work as well. 
 
