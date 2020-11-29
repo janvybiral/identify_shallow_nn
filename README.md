@@ -9,7 +9,7 @@ Here, we use [conda](https://docs.conda.io/en/latest/), but most other environme
 
 First we create a new environment called *snnident*
 ```
-$ conda create -n snnident python=3.7
+$ conda create -n snnident python=3.8
 $ conda activate snnident
 ```
 Now, clone the repository 
